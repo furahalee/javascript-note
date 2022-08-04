@@ -1,4 +1,4 @@
-## study-every
+## study-everyday
 
 자바스크립트를 공부하며 생각을 정리하는 공간 [click](./study-everyday/)
 
